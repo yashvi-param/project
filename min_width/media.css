@@ -1,0 +1,22 @@
+.w-1{
+   width: 100%; 
+}
+.w-2{
+    width:50%;
+}
+.w-3{
+    width:33.33%;
+    /* border:1px solid red; */
+}
+.w-4{
+    width:25%;
+    /* border: 1px solid red; */
+}
+.w-5{
+    width:15%;
+    /* border:1px solid red; */
+}
+.w-1-5{
+    width:65%;
+    /* border:1px solid red; */
+}
